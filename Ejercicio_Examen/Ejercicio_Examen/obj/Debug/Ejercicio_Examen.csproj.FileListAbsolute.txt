@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\bin\Debug\Ejercicio_Examen.exe.config
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\bin\Debug\Ejercicio_Examen.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\bin\Debug\Ejercicio_Examen.pdb
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\obj\Debug\Ejercicio_Examen.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\obj\Debug\Ejercicio_Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\obj\Debug\Ejercicio_Examen.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\obj\Debug\Ejercicio_Examen.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Examen\Ejercicio_Examen\Ejercicio_Examen\obj\Debug\Ejercicio_Examen.pdb

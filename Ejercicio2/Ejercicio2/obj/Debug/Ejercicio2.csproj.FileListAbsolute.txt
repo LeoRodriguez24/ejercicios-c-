@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.frm_programa.resources
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
