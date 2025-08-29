@@ -1,0 +1,23 @@
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.frm_principal.resources
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\ASUS\Documents\AUX SIS 2420B\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforo.resources
+D:\ejercicios c#\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+D:\ejercicios c#\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+D:\ejercicios c#\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.frm_principal.resources
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforo.resources
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+D:\ejercicios c#\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
